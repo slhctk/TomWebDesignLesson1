@@ -1,0 +1,15 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "description": "lesson1 example",
+  "main": "index.js",
+  "repository": "https://github.com/slhctk/TomWebDesignLesson1.git",
+  "author": "Salih Citak <salihcitak@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0",
+    "popper.js": "^1.16.1"
+  }
+}
